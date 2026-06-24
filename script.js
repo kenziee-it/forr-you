@@ -20,7 +20,7 @@ userMsg.innerHTML = text;
 
 chatBox.appendChild(userMsg);
 
-chatInput.value = "";
+chatInput.value = "haiiiiiiii";
 
 setTimeout(()=>{
 
@@ -34,7 +34,7 @@ step++;
 
 }else if(step === 1){
 
-botMsg.innerHTML = "akuuuuuuuuu beruntungggg punyaaa mantannn kayaaa kamuuuuu,thanksss yaaaaa,loveyouu🤍🤍";
+botMsg.innerHTML = "Aku tahu kata-kata saja tidak akan cukup untuk menghapus luka yang telah aku torehkan di hatimu. Namun, aku ingin kamu tahu bahwa setiap detik yang berlalu, penyesalan ini semakin menghantuiku. Aku sungguh minta maaf atas segala kesalahan yang telah aku perbuat. Aku tahu aku telah mengecewakanmu, membuatmu merasa tidak dihargai, dan mungkin bahkan meragukan cinta ini. Aku tahu aku tidak sempurna, dan aku telah melakukan hal-hal yang seharusnya tidak aku lakukan. Aku telah menyakitimu, orang yang paling aku cintai di dunia ini. Aku minta maaf atas setiap perkataan kasar yang pernah keluar dari mulutku, atas setiap janji yang tidak bisa aku tepati, atas setiap tindakan yang membuatmu merasa tidak aman dan tidak dicintai. Aku tahu aku telah gagal menjadi pasangan yang baik untukmu.Aku mengerti jika saat ini kamu merasa marah, kecewa, atau bahkan ingin menjauh dariku. Aku pantas mendapatkan itu semua. Aku tidak akan menyalahkanmu jika kamu memutuskan untuk pergi. Namun, aku berharap kamu tahu bahwa aku akan melakukan apa pun untuk memperbaiki kesalahan ini. Aku ingin kamu tahu bahwa.kamu.adalah segalanya bagiku. Kamu adalah alasan aku tersenyum setiap hari, kamu adalah sumber kekuatanku, dan kamu adalah rumah tempat hatiku selalu ingin kembali. Tanpa kamu, hidupku terasa hampa dan tidak berarti. Aku berjanji akan belajar dari kesalahan ini. Aku akan berusaha menjadi orang yang lebih baik, pasangan yang lebih baik untukmu. Aku akan lebih mendengarkanmu, lebih menghargaimu, dan lebih mencintaimu tanpa syarat. Aku akan melakukan segala yang aku bisa untuk mengembalikan kepercayaanmu.Aku tahu ini tidak akan mudah, dan butuh waktu untuk memulihkan semuanya. Tapi aku bersedia menunggu selama apa pun yang diperlukan. Aku akan mem membuktikan kepadamu bahwa aku layak mendapatkan kesempatan kedua. Aku akan menunjukkan kepadamu bahwa cintaku padamu adalah cinta yang tulus dan abadi. Aku tidak ingin kehilanganmu, sayang. Kamu adalah separuh jiwaku, dan aku tidak bisa membayangkan hidupku tanpamu. Aku mohon, berikan aku kesempatan untuk memperbaiki semuanya. Biarkan aku membuktikan bahwa aku bisa menjadi pasangan yang kamu impikan.Aku mencintaimu lebih dari apa pun di";
 step++;
 
 }else if(step === 2){
